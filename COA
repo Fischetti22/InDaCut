@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> CSCE 190: Pedro Fischetti </title>
+  <link rel = "stylesheet" href ="styles.css" />
+</head>
+  <body> 
+  <h1> Pedro Fischetti </h1>
+    
+    <div class="flex-container">
+    <section class="assign">
+      <img src="/IMG_0004.jpg"/>
+      <div class="assign-det">
+        <h2> Problem Statement: Teachers are not getting compensated!! </h2>
+          <p> Children of united states today are on a decline of education due to the wages of teachers being so low.
+
+Who is experiencing the problem? Our everyday youth and young adults of America.
+
+What is the problem? Education being such a must in todays world the last thing we need is teachers not getting compensated the wages they deserve
+
+Where does the problem present themselves? After a year after year survey of our elementary, middle, and high schoolers math and reading scores dropping.
+
+Why does it matter? If we don’t come together to stand up for our teachers and educators what will education be in the next 10 years? </p>
+        </div>
+    </section>
+      <!-- Affinity diagram assignment -->
+        <div class="flex-container">
+ <section class="assign">
+<img src="/Affinity Diagram 1.png" />
+<div class="assign-det">
+<a href="/Affinity Diagram.pdf"><h2>Affinity diagram: [How Can We improve Teachers Around the World?]</h2></a>
+<p>
+<div style="text-align:center;">
+   <span style="font-size: 13px; color:#0066cc;">Introducing EduBoost: The Ultimate Teaching Companion</span>
+   <span style="font-size: 13px; color:#009933;">EduBoost is a groundbreaking app designed to empower teachers and supercharge student productivity simultaneously. With EduBoost, educators can unlock new financial opportunities while fostering an environment that inspires students to excel.</span>
+   <span style="font-size: 13px; color:#3005EB;">🚧 While still in production, here are some of our current ideas!</span>
+   <span style="font-size: 13px; color:#3005EB;">✨💡 Exciting Features:</span>
+   <span style="font-size: 13px; color:#3005EB;">- 📈 Boost Your Income: EduBoost offers teachers a platform to create and sell educational content, lesson plans, and resources to a global audience. Earn extra income while sharing your expertise.</span>
+   <span style="font-size: 13px; color:#3005EB;">- 💡 Personalized Insights: Get actionable insights into your teaching methods and student performance. Identify areas for improvement and enhance your teaching strategies.</span>
+   <span style="font-size: 13px; color:#3005EB;">- 📚 Resource Library: Access a vast library of teaching materials, saving you time and effort in lesson planning. Customize and adapt resources to suit your unique teaching style.</span>
+   <span style="font-size: 13px; color:#3005EB;">- 🚀 Academic Excellence: EduBoost provides students with tools to stay organized, set goals, and track their progress. Achieve academic success through a structured and motivating environment.</span>
+   <span style="font-size: 13px; color:#3005EB;">- 📖 Interactive Learning: Engage with interactive lessons, quizzes, and study guides. Collaborate with peers and access a wealth of educational content tailored to your needs.</span>
+   <span style="font-size: 13px; color:#3005EB;">- 🌟 Gamified Rewards: Stay motivated with a rewarding gamified system. Earn points, badges, and incentives for achieving milestones and academic excellence.</span>
+   <span style="font-size: 13px; color:#3005EB;">Join the EduBoost community and experience a revolution in education, where everyone thrives!</span>
+ </div>
+    </section>
+
+
+<!-- Personas assignment -->
+   <div class="flex-container">
+     <section class="assign">
+     <img src= "/IMG_00001.jpeg" />
+     <div class="assign-det">>
+       <a href="/PersonaMerge.pdf"><h2>Team Personas: [Together we Educate!] </h2> </a>
+       <p> 
+         Billy the kid was born in south carolina and a hard working teacher trying to release his new app that allows teachers to work together to make life for teachers easier.
+       </p>
+     </div>
+    </section>
+
+     <!-- Storyboard assignment -->
+     <div class="flex-container">
+<section class="assign">
+<img src="/Storyboardimg.jpg" />
+<section class="assign-det">
+<a href="/Storyboard2.pdf"><h2>Team Storyboards: [EduBOOST Going Live!]</h2></a>
+<p>
+[This scenerio you can see teachers and students get frustrated in class due to the lack of help with education. You then see teachers gathering together to create something. They then announce it to their class, which then you see at the last slide the great result of happiness and striaght A's]
+</p>
+</section>
+ </div>
+    </section>
+
+     <!-- Sketching assignment --> 
+     <div class="flex-container">
+<section class="assign">
+<img src="/Sketch1.jpg" /> 
+<section class="assign-det">
+<a href="/TSketch.pdf"><h2>Team Sketches: [<span style="font-size: 13px; color:#0066cc;">Introducing EduBoost: The Ultimate Teaching Companion</span> ]</h2> <p>
+[<span style="font-size: 13px; color:#009933;">EduBoost is a groundbreaking app designed to empower teachers. Here you will see how easy it is to do what you love anywhere in the world!] </p></a> 
+</section>  </div>
+    </section>
+
+     <!-- Paper prototype assignment -->
+     <div class="flex-container">
+ <section class="assign">
+ <img src="BTG.png" />
+ <section class="assign-det">
+ <a href="https://youtu.be/IAobRUZ6ONM"><h2>Team Paper Prototype: [Bridging the Gap!]</h2></a>
+ <p>
+ [ <span style="font-size: 13px; color:#3005EB;">- 💡 Changing Multiple Brains All Over The WORLD!.</span>]
+ </p>
+ </section>
+</div>
+    </section>
+
+         <!-- HiFi prototype assignment -->
+     <div class="flex-container">
+ <section class="assign">
+ <img src="Home.png" />
+ <section class="assign-det">
+ <a href="https://youtu.be/be5NtOfWWlY"><h2>Team HiFi Prototype: [Bridging the Gap!]</h2></a>
+ <p>
+ [ <span style="font-size: 13px; color:#3005EB;">- 💡 BRIDGING THE GAP IS LIVE!.</span>]
+ </p>
+ </section>
+</div>
+    </section>
+ 
+ </div>  
+</p>
+</section>
+</section>
+
+  </body>
+</html>
